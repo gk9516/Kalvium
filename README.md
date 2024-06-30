@@ -25,7 +25,7 @@ These dashboards were created using Tableau based on data scraped from the Elect
 ## Author
 
 - [Ganesh]
-- [Contact](9384002566)
+- [Contact](ganeshrajan2.00@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ganesh-k-910573233/)
 
 Feel free to explore and utilize these dashboards for insights into the 2024 Election Results in India!
