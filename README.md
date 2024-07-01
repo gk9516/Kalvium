@@ -24,7 +24,7 @@ These dashboards were created using Tableau based on data scraped from the Elect
 
 ## Author
 
-- [Ganesh]
+- # Ganesh
 - [Contact](ganeshrajan2.00@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ganesh-k-910573233/)
 
